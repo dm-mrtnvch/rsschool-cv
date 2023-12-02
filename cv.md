@@ -20,3 +20,35 @@ Education
 - **CS50 lectures**
 - **CodeWars**
 - **HTML Academy**
+  Skills
+----------
+
+- **HTML5, CSS3**
+- **REST API, Postman, axios**
+- **Unit Tests, StoryBook**
+- **Material UI, Ant Design**
+- **Git, GitHub**
+- **Jira, Confluence**
+
+Experience
+----------
+- **pet projects using react**
+Code example
+--------------------
+```
+function calculate(str) {
+                        return ('' + str
+                            .split('plus')
+                            .join(' ')
+                            .split('minus')
+                            .join(' -')
+                            .split(' ')
+                            .reduce((total, number) => total + Number(number), 0)
+                         )
+                    }
+```
+English
+----------------------------------------
+My current English level is B1 and I'm still improve my knowledge every day.
+
+
