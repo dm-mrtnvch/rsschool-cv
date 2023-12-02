@@ -32,7 +32,9 @@ Education
 
 Experience
 ----------
+
 - **pet projects using react**
+
 Code example
 --------------------
 ```
