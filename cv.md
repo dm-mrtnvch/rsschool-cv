@@ -9,3 +9,14 @@ Address
 - **location: Belarus, Minsk**
 - **mobile: +375 29 235 2345**
 -------------------     ----------------------------
+About me
+--------------------
+Extremely motivated to constantly develop my skills and grow professionally. In future I'm planning to study front-end much deeper, also including back-end, because my next focus is to become a Full-Stack Developer.
+
+Education
+---------
+
+- **Belarusian Institute of Law**
+- **CS50 lectures**
+- **CodeWars**
+- **HTML Academy**
